@@ -36,3 +36,5 @@ python main.py
 Navigate to the [Latest Release](https://github.com/PizzaKing29/Python-Web-Server/releases) and download the compiled exe python file.
 
 Then follow the CLI Prompts to create the Web Server!
+
+**📝 All web files will be created in ```C:\PythonWebServer```, this includes HTML (optional CSS, JS...)**
