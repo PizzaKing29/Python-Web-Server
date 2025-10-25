@@ -1,5 +1,5 @@
 # A Simple Web Server made in Python
-This Web Server in Python is light weight and perfect for developers who want easy configuration on creating a Web Server. More information and features about this project will be down below.
+This Web Server in Python is light weight and perfect for developers who want easy configuration on creating a local Web Server. More information and features about this project will be down below.
 
 ## ℹ️Features
 Custom Link Generation:
